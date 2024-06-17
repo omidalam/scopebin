@@ -10,4 +10,4 @@ __version__ = "0.1"
 def get_module_version():
     return __version__
 
-from .io import *
+import io
