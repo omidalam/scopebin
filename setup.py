@@ -17,5 +17,6 @@ setup(name='scopebin',
           'reportlab',
           'PyPDF2',
           'pandas',
+          'aicsimageio==4.14.0'
       ],      
       zip_safe=False)
